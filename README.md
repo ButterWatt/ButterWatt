@@ -10,4 +10,6 @@ Also, the side effects might be included like rage, overreact, sanity decresion,
 
 *What are you waitting for? Just find a repository!*
 
-*You already saw the missing "r", right?*
+*You already saw the missing "r", right? If so... you're good at paying attention, I appreciate that*
+
+This repo is powered by *✨vibes✨*, *water💧* and *random mindset🧠*
