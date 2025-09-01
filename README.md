@@ -12,4 +12,4 @@ Also, the side effects might be included like rage, overreact, sanity decresion,
 
 *You already saw the missing "r", right? If so... you're good at paying attention, I appreciate that*
 
-This repo is powered by *✨vibes✨*, *water💧* and *random mindset🧠*
+*This repo is powered by ✨vibes✨, water💧 and random mindset🧠*
