@@ -1,6 +1,6 @@
 ## Hi there, it's Butter Watt! 👋
 
-Welcome, my name is Butter, I'm a random developer in Vietnam 🇻🇳
+Welcome, my name is Butter, I'm a random developer from Vietnam 🇻🇳
 
 Before you get into any repository, I'd like to warn you that some repo can make you rage, so... Please consider before proceed 😄
 
