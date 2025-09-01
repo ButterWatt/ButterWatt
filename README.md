@@ -9,3 +9,5 @@ Also, the side effects might be included like rage, overreact, sanity decresion,
  *Typos on purpose, please don't blame me, gramma police.
 
 *What are you waitting for? Just find a repository!*
+
+*You already saw the missing "r", right?*
